@@ -1,0 +1,11 @@
+# Site settings
+title: Amanda's blog
+email: ajzapata4@gmail.com
+description: I'm cool
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://azap4.github.io" # the base hostname & protocol for your site
+twitter_username: ajzapata
+github_username:  azap4
+
+# Build settings
+markdown: kramdown
