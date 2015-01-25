@@ -8,4 +8,4 @@ permalink: /about/
 
 ##i like dogs
 
-you can find me on [twitter](twitter.com/ajzapata)
+you can find me on [twitter](http://twitter.com/ajzapata)
