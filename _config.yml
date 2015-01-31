@@ -1,8 +1,8 @@
 # Site settings
-title: Amanda's blog
+title: Amanda's Blog
 email: ajzapata4@gmail.com
 description: > # This means to ignore newlines until "baseurl:"
-  I am cool and stuff
+  Cooking, crafts, animals, coding. Learning, and learning more. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://azap4.github.io" # the base hostname & protocol for your site
 twitter_username: ajzapata
