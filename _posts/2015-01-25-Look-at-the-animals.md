@@ -11,7 +11,22 @@ On Sundays I **love** to make new recipes. I have plenty of time to work in the 
 
 I was also recently gifted with a stand mixer and I try to incorporate that in my recipes - **EVEN** if that means making 1000 cupcakes. Who cares about sugar intake?
 
-I also spend a lot of time searching for new animal gifs. 
+I also spend a lot of time searching for new animal gifs. Animals are the **BEST**. Below are some gifs for your enjoyment (remember when FYE was a thing?).
+
+	This pug getting owned by his own legs [here](http://i.imgur.com/25Wh4M1.gif).
+
+	And if you haven't seen [this](http://i.imgur.com/ynA3IEy.gif) otter yet you are missing out.
+
+	Also, [otters](http://www.thinknice.com/wp-content/uploads/2013/08/Adorable-Otter.gif) are the greatest/cutest/I want one. 
+
+So for some pictures of what I've been eating recently:
+
+	![Soup](/Users/Amanda/desktop/IMG_0446.JPG)
+
+
+
+
+
 
 
 
